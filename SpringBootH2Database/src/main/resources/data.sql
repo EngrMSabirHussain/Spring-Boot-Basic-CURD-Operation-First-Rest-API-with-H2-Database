@@ -1,0 +1,1 @@
+insert into emp_table values(1,'Sabir', 'Hussain','sabirhussain0424@gmail.com');
